@@ -1,0 +1,60 @@
+﻿@model Vidly.ViewModels.FilmeViewModel
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h3 class="page-header text-danger">Deseja realmente excluir o filme <strong> @Model.Filme.Nome ? </strong></h3>
+
+<dl class="dl-horizontal">
+
+    <dt>@Html.DisplayNameFor(m => m.Filme.Nome)</dt>
+    <dd>@Html.DisplayFor(m => m.Filme.Nome)</dd>
+
+    <dt>@Html.DisplayNameFor(m => m.Filme.Descricao)</dt>
+    <dd>@Html.DisplayFor(m => m.Filme.Descricao)</dd>
+
+    <dt>@Html.DisplayNameFor(m => m.Filme.DataLancamento)</dt>
+    <dd>@Html.DisplayFor(m => m.Filme.DataLancamento)</dd>
+
+    <dt>@Html.DisplayNameFor(m => m.Filme.Genero.Descricao)</dt>
+    <dd>@Html.DisplayFor(m => m.Filme.Genero.Descricao)</dd>
+
+    <dt>@Html.DisplayNameFor(m => m.Filme.Imdb)</dt>
+    <dd>@Html.DisplayFor(m => m.Filme.Imdb)</dd>
+
+    <dt>@Html.DisplayNameFor(m => m.Filme.QtdStock)</dt>
+    <dd>@Html.DisplayFor(m => m.Filme.QtdStock)</dd>
+
+
+    <dt>&nbsp;</dt>
+    <dd>&nbsp;</dd>
+
+    <dt>&nbsp;</dt>
+    <dd>
+        @Html.ActionLink("Confirmar Exclusão", "Excluir", new { id = Model.Filme.Id }, new { @class = "btn btn-default btn-danger" }) &nbsp;
+        @Html.ActionLink("Cancelar", "MostrarDetalhe", new { id = Model.Filme.Id }, new { @class = "btn btn-default" })
+    </dd>
+
+    @*<dd>
+            &nbsp;&nbsp;
+            @using (Html.BeginForm("Excluir", "Filmes"))
+            {
+                @Html.AntiForgeryToken()
+
+                @Html.HiddenFor(m => m.Filme.Id);
+
+                <div>
+                    <input type="submit" value="Confirmar Exclusão" class="btn btn-default btn-danger" />
+                </div>
+            }
+        </dd>*@
+
+    <dt>&nbsp;</dt>
+    <dd>&nbsp;</dd>
+
+    <dt>&nbsp;</dt>
+    <dd>
+        @Html.ActionLink("Ir Para Filmes", "Index", null, null)
+    </dd>
+</dl>

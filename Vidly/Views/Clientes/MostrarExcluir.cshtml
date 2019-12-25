@@ -1,0 +1,40 @@
+﻿@model Vidly.ViewModels.ClienteViewModel
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h3 class="page-header">Excluir Cliente</h3>
+
+@using (Html.BeginForm("Excluir", "Clientes"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Cliente.Nome)
+        @Html.TextBoxFor(m => m.Cliente.Nome, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Cliente.DataNascimento)
+        @Html.TextBoxFor(m => m.Cliente.DataNascimento, new { @class = "form-control" })
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Cliente.IsInscritoNews) Receber Novidades
+        </label>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Cliente.TipoSubscricaoId)
+        @Html.DropDownListFor(m => m.Cliente.TipoSubscricaoId, new SelectList(Model.TiposSubscricao, "Id", "Nome", Model.Cliente.TipoSubscricaoId), new { @class = "form-control" })
+        @* Model.Cliente.TipoSubscricaoId  => valor da model enviado pela controller e não o model da view  *@
+        @*@Html.DropDownListFor( c => c.Cliente.TipoSubscricao.Id, (SelectList)ViewBag.ListTipoSubscricao, new { @class = "form-control"})*@
+    </div>
+    @Html.HiddenFor(m => m.Cliente.Id);
+    <button type="submit" class="btn btn-danger">Excluir</button>    
+    @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-info" })
+
+    <div class="form-group">
+        <br />
+        @Html.ActionLink("Voltar Para Clientes", "Index", null, null)
+    </div>
+
+}
+
+

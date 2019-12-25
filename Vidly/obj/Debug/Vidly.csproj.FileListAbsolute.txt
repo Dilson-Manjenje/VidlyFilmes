@@ -1,0 +1,200 @@
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Vidly.dll.config
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Vidly.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Vidly.pdb
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csc.exe
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csc.exe.config
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csc.rsp
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csi.exe
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csi.rsp
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\vbc.exe
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\vbc.rsp
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Owin.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Helpers.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Mvc.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Optimization.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Razor.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\WebGrease.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Helpers.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Mvc.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Optimization.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Razor.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.dll
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.pdb
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Vidly.dll.config
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Vidly.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Vidly.pdb
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csc.exe
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csc.exe.config
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csc.rsp
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csi.exe
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\csi.rsp
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.AppContext.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\vbc.exe
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\vbc.exe.config
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\vbc.rsp
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Antlr3.Runtime.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.SqlServer.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Newtonsoft.Json.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Owin.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Helpers.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Mvc.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Optimization.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Razor.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\WebGrease.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Helpers.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Mvc.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Optimization.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.Razor.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Newtonsoft.Json.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Antlr3.Runtime.pdb
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\EntityFramework.SqlServer.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.ModeloInicial.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.dll
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.pdb
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.ModeloInicial.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.criarTipoSubscricao.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.popularTipoSubscricao.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirNome_TipoSubscricao.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.actualizarNomeTipoDeSubscricao.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirNotations.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirDataNascimentoCliente.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirGeneroFilme.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.popularGenero.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.criarTipoSubscricao.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.popularTipoSubscricao.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirNome_TipoSubscricao.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.actualizarNomeTipoDeSubscricao.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirNotations.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirDataNascimentoCliente.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirGeneroFilme.resources
+D:\ENJETECH\GoogleDriver\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.popularGenero.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.DataNascimentoObrigatorio.resources
+C:\Users\dilson.manjenje\Google Drive\EnjeTech\Treinamentos\CursoMVC5_Mosh\VidlyFilmes\Vidly\obj\Debug\Vidly.Migrations.incluirDtLancamentoStoqueNoFilme.resources

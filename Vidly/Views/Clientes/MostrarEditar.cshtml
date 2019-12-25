@@ -1,0 +1,66 @@
+﻿
+@model Vidly.ViewModels.ClienteViewModel
+@{
+    ViewBag.Title = "Editar Cliente";
+    string returnAction = (string)ViewBag.ReturnUrl;
+    var returnParametro = (returnAction == "Index" ? null : new { id = Model.Cliente.Id });
+}
+
+<h2 class="page-header">Editar Cliente</h2>
+
+@*@using (Html.BeginForm("Actualizar", "Clientes", new { ReturnUrl = returnAction }, FormMethod.Post))*@
+@using (Html.BeginForm("Actualizar", "Clientes"))
+{
+    <div>
+        <strong>@Html.ValidationSummary(true, "Preencha os campos obrigatórios", new { @class = "text-danger" })</strong>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Cliente.Nome)
+        @Html.TextBoxFor(m => m.Cliente.Nome, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Cliente.Nome)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Cliente.DataNascimento)
+        @*@Html.TextBoxFor(m => m.Cliente.DataNascimento, new { @class = "form-control" })*@
+        @Html.TextBoxFor(c => c.Cliente.DataNascimento, "{0: dd/MM/yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Cliente.DataNascimento)
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Cliente.IsInscritoNews) Receber Novidades
+        </label>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Cliente.TipoSubscricaoId)
+        @Html.DropDownListFor(m => m.Cliente.TipoSubscricaoId, new SelectList(Model.TiposSubscricao, "Id", "Nome", Model.Cliente.TipoSubscricaoId), new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Cliente.TipoSubscricaoId)
+
+        @* Model.Cliente.TipoSubscricaoId  => valor da model enviado pela controller e não o model da view  *@
+        @*@Html.DropDownListFor( c => c.Cliente.TipoSubscricao.Id, (SelectList)ViewBag.ListTipoSubscricao, new { @class = "form-control"})*@
+    </div>
+    @Html.HiddenFor(m => m.Cliente.Id);
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-success">Actualizar</button>
+    <text> &nbsp; </text>
+
+    @*@Html.ActionLink("Cancelar", "MostrarDetalhe", new { id = Model.Cliente.Id }, new { @class = "btn btn-default" }) // TODO: Implementar voltar no Cancelar (se veio do Detalhar, ou Index)*@
+
+    @*if (urlRetorno == "Index")
+        {
+            @Html.ActionLink("Cancelar", (string)ViewBag.ReturnUrl, null, new { @class = "btn btn-default" })
+        }
+        else
+        {
+            @Html.ActionLink("Cancelar", (string)ViewBag.ReturnUrl, new { id = Model.Cliente.Id }, new { @class = "btn btn-default" }) // TODO: Implementar voltar no Cancelar (se veio do Detalhar, ou Index)
+        }*@
+
+    @Html.ActionLink("Cancelar", returnAction, returnParametro, new { @class = "btn btn-default" })
+
+    <div class="form-group">
+        <br />
+        @Html.ActionLink("Voltar Para Clientes", "Index", null, null)
+    </div>
+
+}
+

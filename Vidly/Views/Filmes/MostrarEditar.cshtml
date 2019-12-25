@@ -1,0 +1,63 @@
+﻿@model Vidly.ViewModels.FilmeViewModel
+
+@{
+    ViewBag.Title = "Editar Filme";
+}
+
+<h2 class="page-header"> Editar Filme </h2>
+
+@using (Html.BeginForm("Actualizar", "Filmes"))
+{
+    <div>
+        <strong>@Html.ValidationSummary(true, "Preencha os campos obrigatórios", new { @class = "text-danger" })</strong>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Filme.Nome)
+        @Html.TextBoxFor(m => m.Filme.Nome, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Filme.Nome)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Filme.Descricao)
+        @Html.TextAreaFor(m => m.Filme.Descricao, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Filme.Descricao)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Filme.DataLancamento)
+        @Html.TextBoxFor(m => m.Filme.DataLancamento, "{0: dd/MM/yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Filme.DataLancamento)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Filme.GeneroId)
+        @Html.DropDownListFor(m => m.Filme.GeneroId, new SelectList(Model.Generos, "Id", "Descricao", Model.Filme.GeneroId), new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Filme.GeneroId)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Filme.Imdb)
+        @Html.TextBoxFor(m => m.Filme.Imdb, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Filme.Imdb)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Filme.QtdStock)
+        @Html.TextBoxFor(m => m.Filme.QtdStock, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Filme.QtdStock)
+    </div>
+
+    @Html.HiddenFor(m => m.Filme.Id);
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-default btn-success"> Actualizar </button>
+    <text> &nbsp; </text>
+    // TODO: Implementar voltar no Cancelar (se veio do Detalhar, ou Index)
+    @Html.ActionLink("Cancelar", "MostrarDetalhe", new { id = Model.Filme.Id }, new { @class = "btn btn-default" })
+
+    <div class="form-group">
+        <br />
+        @Html.ActionLink("Ir Para Filmes", "Index", null, null)
+    </div>
+}
+

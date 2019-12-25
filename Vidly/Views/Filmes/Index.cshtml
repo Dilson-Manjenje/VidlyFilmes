@@ -1,0 +1,56 @@
+﻿@using Vidly.ViewModels
+
+@model IEnumerable<FilmeViewModel>
+
+@{
+    ViewBag.Title = "Filmes";
+}
+
+<h2 class="page-header">Filmes</h2>
+
+@Html.ActionLink("Criar Novo", "MostrarNovo", null, new { @class = "btn btn-success" })
+
+@*@if (Model?.Count() == 0)*@
+@if (!Model.Any())
+{
+    <div class="block"> Não existe filmes registados.</div>
+}
+else
+{
+
+    <table class="table table-hover">
+
+        <thead class="thead-dark">
+            <tr>
+                <th>Título</th>
+                <th>Descrição</th>
+                <th>Data Lançamento</th>
+                <th>Genéro</th>
+                <th>Qtd.Stock</th>
+                <th>Acções</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Filme.Nome</td>
+                    <td>@item.Filme.Descricao</td>
+                    <td>@item.Filme.DataLancamento.ToString("dd/MMM/yyyy")</td>
+                    <td>@item.Filme.Genero.Descricao</td>
+                    <td>@item.Filme.QtdStock</td>
+                    <td>
+                        @Html.ActionLink("Editar", "MostrarEditar", new { id = item.Filme.Id }, new { @class = "btn btn-primary" })
+                        &nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("Detalhar", "MostrarDetalhe", new { id = item.Filme.Id }, new { @class = "btn btn-info" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+
+
+

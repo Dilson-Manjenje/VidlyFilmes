@@ -1,0 +1,80 @@
+﻿
+@model Vidly.ViewModels.ClienteViewModel
+
+@{
+    ViewBag.Title = "Detalhe";
+    var dtNascimentoFormatada = Model.Cliente.DataNascimento.ToString("dd/MMM/yyyy");
+}
+
+<h2 class="page-header"> @Model.Cliente.Nome </h2>
+
+<dl class="dl-horizontal">
+
+    @*@if (Model.Cliente.DataNascimento.HasValue)*@
+    @if (Model.Cliente.DataNascimento != null)
+    {
+        <dt>@Html.DisplayNameFor(model => model.Cliente.DataNascimento)</dt>
+        <dd>@Html.DisplayFor(model => dtNascimentoFormatada)</dd>
+    }
+
+    <dt>@Html.DisplayNameFor(model => model.Cliente.TipoSubscricao.Nome)</dt>
+    <dd>@Html.DisplayFor(model => model.Cliente.TipoSubscricao.Nome)</dd>
+
+    <dt>@Html.DisplayNameFor(model => model.Cliente.TipoSubscricao.DuracaoEmMeses)</dt>
+    <dd>@Html.DisplayFor(model => model.Cliente.TipoSubscricao.DuracaoEmMeses) Meses</dd>
+
+    <dt>@Html.DisplayNameFor(model => model.Cliente.IsInscritoNews)</dt>
+    <dd>@( (Model.Cliente.IsInscritoNews) ? "Sim" : "Não")</dd>
+
+
+    <dt>&nbsp;</dt>
+    <dd>&nbsp;</dd>
+
+
+    <dd>
+        @Html.ActionLink("Editar", "MostrarEditar", new { id = Model.Cliente.Id, ReturnUrl = ViewBag.ReturnUrl }, new { @class = "btn btn-primary" })        
+        &nbsp;&nbsp;
+        @*@Html.ActionLink("Excluir", "Excluir", new { id = Model.Cliente.Id }, new { @class = "btn btn-danger", id = "btnExcluir" })*@
+        <button class="btn btn-danger" id="btnExcluir">Excluir</button>
+    </dd>
+
+    <dt>&nbsp;</dt>
+    <dd>&nbsp;</dd>
+
+    <dd>
+        @Html.ActionLink("Voltar Para Clientes", "Index", null, null)
+    </dd>
+</dl>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $("#btnExcluir").on("click", function () {
+                if (confirm("Deseja excluir @Model.Cliente.Nome ?"))
+                {
+                    //alert("Exclusão realizada com sucesso!");
+                    //console.log("Exclusão realizada!!!");
+                    $.ajax({
+                        type: "GET",
+                        url: "/Clientes/Excluir/@Model.Cliente.Id",
+                        //data: JSON.stringify(Student),
+                        //dataType: "json"  
+                        //contentType: 'application/json; charset=utf-8',
+                        //success: function (data) {
+                        //    alert(data.msg);
+                        //},
+                        success: function (data) {
+                            window.location.href = '/Clientes/Index';
+                            //alert(data.msg);
+                        },
+                        //error: function () {
+                        //    alert("Error occured!!")
+                        //}
+                    });
+                }                
+            });            
+        });
+
+    </script>
+}

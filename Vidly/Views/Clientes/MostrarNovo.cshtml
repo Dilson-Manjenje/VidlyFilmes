@@ -1,0 +1,54 @@
+﻿
+@model Vidly.ViewModels.ClienteViewModel
+@{
+    ViewBag.Title = "Novo";
+}
+
+<h2 class="page-header">Novo Cliente</h2>
+
+@using (Html.BeginForm("Criar", "Clientes"))
+{
+
+    <div>
+        <strong>@Html.ValidationSummary(true, "Preencha os campos obrigatórios", new { @class = "text-danger" })</strong>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c => c.Cliente.Nome) *
+        @Html.TextBoxFor(c => c.Cliente.Nome, new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.Cliente.Nome)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c => c.Cliente.DataNascimento) *
+        @Html.TextBoxFor(c => c.Cliente.DataNascimento, "{0: dd/MM/yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.Cliente.DataNascimento)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c => c.Cliente.TipoSubscricaoId)
+        @Html.DropDownListFor(c => c.Cliente.TipoSubscricaoId, new SelectList(Model.TiposSubscricao, "Id", "Nome"), "(Selecione)", new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.Cliente.TipoSubscricaoId)
+
+        @*@if (Model.Cliente == null)
+            {
+                @Html.DropDownListFor(c => c.Cliente.TipoSubscricaoId, new SelectList(Model.TiposSubscricao, "Id", "Nome"), "(Selecione)", new { @class = "form-control" })
+            }
+            else
+            {
+                @Html.DropDownListFor(c => c.Cliente.TipoSubscricaoId, new SelectList(Model.TiposSubscricao, "Id", "Nome", Model.Cliente.TipoSubscricaoId), new { @class = "form-control" })
+            }*@
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(c => c.Cliente.IsInscritoNews) <strong> Receber Novidades  </strong>
+        </label>
+    </div>
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-success">Salvar</button>
+    <text> &nbsp; </text>
+    @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-default" }) 
+
+    <div class="form-group">
+        <br />
+        @Html.ActionLink("Voltar Para Clientes", "Index", null, null)
+    </div>
+}
+

@@ -1,0 +1,57 @@
+﻿@using Vidly.ViewModels
+
+@model IEnumerable<ClienteViewModel>
+@*
+    Nota: a model é IEnumerable<T> por ser uma interface implementada pela classe List e outras collections.
+    Sendo que a view é apenas para percorrer uma lista sem necessidade de adicionar ou remover IEnumerable<T> é uma optima opção,
+    pois a controller pode enviar qualquer estrutura de dados (List, Collection, etc) desde que implemente IEnumerable o codigo view funcionará correctamente
+*@
+
+@{
+    ViewBag.Title = "Clientes";
+}
+
+<h2 class="page-header"> Clientes </h2>
+
+@Html.ActionLink("Criar Novo", "MostrarNovo", null, new { @class = "btn btn-success" })
+
+@if (!Model.Any())
+{
+    <p class="text-info"> Não existe clientes registados.</p>
+}
+else
+{
+    <table class="table table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Nome</th>
+                <th>Data Nascimento</th>
+                <th>Subscrição</th>
+                <th>Duração em Meses</th>
+                <th>Receber Novidades?</th>
+                <th>Acções</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @*<td><a href="/Clientes/Detalhar/@cliente.Id">@cliente.Nome</a></td>*@
+                    <td>@Html.ActionLink(item.Cliente.Nome, "MostrarDetalhe", new { id = item.Cliente.Id }, null)</td>
+                    <td>@item.Cliente.DataNascimento.ToString(" dd-MMM-yyyy")</td>
+                    <td>@item.Cliente.TipoSubscricao.Nome</td>
+                    <td>@item.Cliente.TipoSubscricao.DuracaoEmMeses</td>
+                    <td>
+                        @( (item.Cliente.IsInscritoNews) ? "Sim" : "Não" )
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "MostrarEditar", new { id = item.Cliente.Id, ReturnUrl = ViewBag.ReturnUrl }, new { @class = "btn btn-primary" })
+                        &nbsp;&nbsp;&nbsp;
+                        @Html.ActionLink("Detalhar", "MostrarDetalhe", new { id = item.Cliente.Id }, new { @class = "btn btn-info" })
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
